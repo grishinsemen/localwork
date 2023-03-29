@@ -1,1 +1,1 @@
-google. kk
+google.kkk = functio
